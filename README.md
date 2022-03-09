@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @ridwanRR24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# PPL -A11.4606
+Disini adalah kumpulan tugas mata kuliah PROYEK PERANGKAT LUNAK
 
-<!---
-ridwanRR24/ridwanRR24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
++
++Nama   : Ridwan Rizky Ramadhan
++Nim    : A11.2019.12075
